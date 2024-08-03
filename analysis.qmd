@@ -54,7 +54,7 @@ The `echo: false` option disables the printing of code (only output is displayed
 ## Install Tinytex (look into)
 
 ```{r}
-tinytex::install_tinytex()
+#tinytex::install_tinytex()
 # to uninstall TinyTeX, run tinytex::uninstall_tinytex() 
 ```
 
@@ -69,4 +69,8 @@ tinytex::install_tinytex()
 ## Zotero 
 
 Helps to organize citations -- def look into. 
+
+# Changes
+
+Making changes for the purpose of review and study at JSM 2024
 
